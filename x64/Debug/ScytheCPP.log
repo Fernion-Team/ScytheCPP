@@ -1,6 +1,0 @@
-﻿  main.cxx
-  scy_lexer.cxx
-C:\Users\bitte\source\repos\ScytheCPP\ScytheCPP\scy_lexer.cxx(102,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-  scy_parser.cxx
-  Generating Code...
-C:\Users\bitte\source\repos\ScytheCPP\ScytheCPP\scy_parser.cxx(33): error C4716: 'Parser::Parse': must return a value
