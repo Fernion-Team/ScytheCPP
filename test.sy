@@ -1,5 +1,0 @@
-fn main(a: int, b: int) -> void 
-{ 
-	var x <- 0 : int
-	print("%d", x)
-}
