@@ -19,7 +19,7 @@ We do expect the release date somewhere in 2023, though.
 
 # What's the policy about editing the source code?
 
-You can edit the code however you want, and we love contributors, just don't release your edited code for commercial purposes, and please credit us.
+You can edit the code however you want, and we love contributors, just don't release your edited code for commercial purposes, and please credit us.<br>
 If you do decide to contribute, please send a pull request with your edits, and we will make sure to check it out as fast as we can.
 
 © Fernion 2023.
