@@ -1,0 +1,3 @@
+﻿  scy_lexer.cxx
+C:\Users\bitte\source\repos\ScytheCPP\ScytheCPP\scy_lexer.cxx(102,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  ScytheCPP.vcxproj -> C:\Users\bitte\source\repos\ScytheCPP\x64\Debug\ScytheCPP.exe
