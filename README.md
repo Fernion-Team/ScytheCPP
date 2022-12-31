@@ -10,10 +10,10 @@ Currently, we don't know what the release date could be, since it depends on a l
 What we have done and are doing right now is:
 
 Done:
-  - [] Lexer
-Doing:
-  - [] Parser
-  - [] Emitter
+  - [] Lexer <br>
+Doing: <br>
+  - [] Parser <br>
+  - [] Emitter <br>
   
 We do expect the release date somewhere in 2023, though.
 
